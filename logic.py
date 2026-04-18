@@ -1,5 +1,5 @@
 import pandas as pd
-df=pd.read_excel("C:\\dev\\EVOLV\\evolv\\app\\StackForgeM.xlsx")
+df=pd.read_excel("StackForgeM.xlsx")
 # print(df.columns)
 interest_map={
     "web":"Web Dev",
